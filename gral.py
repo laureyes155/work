@@ -27,4 +27,4 @@ run_model(fileNameParam,columnsParam,trainSizeParam,algoritmoParam)
 print('rf --------------------------------------------------------------------')
 algoritmoParam='rf'
 run_model(fileNameParam,columnsParam,trainSizeParam,algoritmoParam)
-print(' --------------------------------------------------------------------')
+print('final --------------------------------------------------------------------')
